@@ -1,0 +1,11 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="wkm/wkm.vcxproj">
+    <Platform Project="x64" />
+    <Deploy />
+  </Project>
+  <Project Path="wum/wum.vcxproj" Id="c3b8e830-a5e2-4181-919b-651ea1faa8ed" />
+</Solution>
